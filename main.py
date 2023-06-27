@@ -27,7 +27,7 @@ root = tk.Tk()
 root.config(bg='grey')
 root.title('PasswordMaker')
 root.minsize(720, 480)
-#root.iconbitmap('icon.ico')
+
 frame1 = tk.Frame(root, bg='grey')
 frame2 = tk.Frame(frame1, bg='grey')
 frame3 = tk.Frame(root, bg='grey')
